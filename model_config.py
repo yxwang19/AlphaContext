@@ -6,7 +6,7 @@ LITELLM_MODEL_NAME_deepseek = os.getenv(
     f"deepseek/{MODEL_NAME_deepseek}",
 )
 API_BASE_deepseek = "https://api.deepseek.com"
-API_KEY_deepseek = os.getenv("DEEPSEEK_API_KEY", "sk-15e709bad6ba4efe8cecf1d0eeaefec7")
+API_KEY_deepseek = os.getenv("DEEPSEEK_API_KEY", "")
 CHAT_EP_deepseek = API_BASE_deepseek.rstrip("/") + "/chat/completions"
 COMP_EP_deepseek = API_BASE_deepseek.rstrip("/") + "/completions"
 
