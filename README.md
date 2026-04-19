@@ -143,5 +143,5 @@ author = {Yixuan Wang, Yue Huang, Hong Qian, Yuezhao Wei, Yifei Ding, Wenkai Wan
 booktitle = {Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics},
 title = {AlphaContext: An Evolutionary Tree-based Psychometric Context Generator for Creativity Assessment},
 year = {2026},
-address={San Diego, CA, USA}
+address={San Diego, CA, {USA}}
 }
