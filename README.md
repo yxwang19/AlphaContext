@@ -3,7 +3,7 @@
 
 # AlphaContext: An Evolutionary Tree-based Psychometric Context Generator for Creativity Assessment
 
-**Yixuan Wang<sup>a</sup>, Yue Huang<sup>a</sup>, Hong Qian<sup>a, b, *</sup>, Yunzhao Wei<sup>a</sup>, Yifei Ding<sup>a</sup>, Wenkai Wang<sup>a</sup>, Zhi Liu<sup>a, b</sup>, Zhongjing Huang<sup>a, *</sup>, Aimin Zhou<sup>a, b</sup>and
+**Yixuan Wang<sup>a</sup>, Yue Huang<sup>a</sup>, Hong Qian<sup>a, b, *</sup>, Yunzhao Wei<sup>a</sup>, Yifei Ding<sup>a</sup>, Wenkai Wang<sup>a</sup>, Zhi Liu<sup>a, b</sup>, Zhongjing Huang<sup>a</sup>, Aimin Zhou<sup>a, b</sup>and
 Jiajun Guo<sup>a</sup>**<br>
 <small>(*Corresponding authors)</small><br>
 <sup>a</sup> East China Normal University, Shanghai, China<br>
