@@ -10,7 +10,7 @@ Jiajun Guo<sup>a</sup>**<br>
 <sup>b</sup> Shanghai Innovation Institute, Shanghai, China<br>
 
 <a href='https://github.com/yxwang19/AlphaContext'><img src='https://img.shields.io/badge/Project-Page-green'></a>
-<a href='paper/main.pdf'><img src='https://img.shields.io/badge/Paper-PDF-orange'></a>
+<a href='paper/AlphaContext.pdf'><img src='https://img.shields.io/badge/Paper-PDF-orange'></a>
 
 
 </div>
@@ -68,10 +68,6 @@ Example:
   { 
     "title": "AI Partner", 
     "theme": "Human–AI companionship and autonomy: ethics, emotional reliance, privacy, and governance of pervasive personal AI assistants." 
-    },
-  { 
-    "title": "Ocean Soup Future Scene", 
-    "theme": "Marine plastics futures: circular economy, cleanup tech, ecosystem impacts, and policy for ocean health." 
     }
 ]
 ```
@@ -140,8 +136,8 @@ Yixuan Wang, Yue Huang, Hong Qian, Yuezhao Wei, Yifei Ding, Wenkai Wang, Zhi Liu
 ```bibtex
 @inproceedings{wang2026acl,
 author = {Yixuan Wang, Yue Huang, Hong Qian, Yuezhao Wei, Yifei Ding, Wenkai Wang, Zhi Liu, Zhongjing Huang, Aimin Zhou and Jiajun Guo},
-booktitle = {Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics},
+booktitle = {Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL)},
 title = {AlphaContext: An Evolutionary Tree-based Psychometric Context Generator for Creativity Assessment},
 year = {2026},
-address={San Diego, CA, {USA}}
+address={San Diego, CA}
 }
